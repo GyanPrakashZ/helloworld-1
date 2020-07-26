@@ -3,7 +3,6 @@
 using namespace std;
 
 int main(){
-  //print hello
-  cout<<"Hello World into hello.cpp";
+  cout<<"Hello World into newq";
   return 0;
 }
